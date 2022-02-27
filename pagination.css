@@ -1,0 +1,11 @@
+#fs
+{
+    background-color: rgb(91, 91, 192);
+   text-decoration: solid;
+   /* align-content: center; */
+   /* text-align: center;  */
+}
+table tr td
+{
+    border: solid black 1px;
+}
